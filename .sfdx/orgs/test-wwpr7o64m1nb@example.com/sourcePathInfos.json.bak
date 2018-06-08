@@ -1,0 +1,347 @@
+[
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044460,
+            "changeTime": 1528362044460,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044461,
+            "changeTime": 1528362044461,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044483,
+            "changeTime": 1528362044483,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044463,
+            "changeTime": 1528362044463,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 938,
+            "modifiedTime": 1528362044463,
+            "changeTime": 1528362044463,
+            "contentHash": "3ce2d021394bb78f84c9923f8ef424cda4bf05aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044464,
+            "changeTime": 1528362044464,
+            "contentHash": "09a69e27fe97e82dc8d361118420649d492538e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044477,
+            "changeTime": 1528362044477,
+            "contentHash": "012346f147a3bcaff879f180c695836fc349bb94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1528362044466,
+            "changeTime": 1528362044466,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 202,
+            "modifiedTime": 1528362044467,
+            "changeTime": 1528362044467,
+            "contentHash": "8347a6b4e52876262eb530df2970fd05deb9a131",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 254,
+            "modifiedTime": 1528362044468,
+            "changeTime": 1528362044468,
+            "contentHash": "5484156ea5d5c812a8351a4b3a3ed4d7685b9191",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1528362044470,
+            "changeTime": 1528362044470,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.design",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1528362044471,
+            "changeTime": 1528362044471,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDX.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1528362044473,
+            "changeTime": 1528362044473,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDXController.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDXController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1528362044474,
+            "changeTime": 1528362044474,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDXHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDXHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528362044476,
+            "changeTime": 1528362044476,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDXRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\aura\\Demo_SalesforceDX\\Demo_SalesforceDXRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1528362044477,
+            "changeTime": 1528362044477,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044479,
+            "changeTime": 1528362044479,
+            "contentHash": "54bd71dc253670d96945c9e350bb588e8df8da4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\flexipages\\LatihanDemo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\flexipages\\LatihanDemo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 740,
+            "modifiedTime": 1528362044479,
+            "changeTime": 1528362044479,
+            "contentHash": "8f9b36a697dea893bef1d907ef6304b5020fe994",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362647603,
+            "changeTime": 1528362647603,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18288,
+            "modifiedTime": 1528362044482,
+            "changeTime": 1528362044482,
+            "contentHash": "ef11fe4fb13fb2435d3f7879cd2c7e6397e1099f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044485,
+            "changeTime": 1528362044485,
+            "contentHash": "5a9b9e676acd615c272a662f5ec7d3926ea6bde7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\tabs\\LatihanDemo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx\\force-app\\main\\default\\tabs\\LatihanDemo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 329,
+            "modifiedTime": 1528362044485,
+            "changeTime": 1528362044485,
+            "contentHash": "17d33910cc1f4ff02faa922a73c929c6b0fdbc2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSaleforceDX\\demo_sf_dx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528362044486,
+            "changeTime": 1528362044486,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
